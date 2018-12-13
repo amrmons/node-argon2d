@@ -1,7 +1,7 @@
 {
     "name": "GLT-Keccak",
     "symbol": "GLT",
-    "algorithm": "gltkeccak",
+    "algorithm": "keccakc",
     "blockHashSHA256": true,
     "peerMagic": "c708d32d",
     "peerMagicTestnet": "3a6f375b"
