@@ -1,0 +1,12 @@
+{
+    "name": "GLT-Phi1612",
+    "symbol": "GLT",
+    "algorithm": "phi1612",
+    "blockHashSHA256": true,
+    "isMultiAlgo", true,
+    "MultiAlgoString": "phi1612",
+    "peerMagic": "c708d32d",
+    "peerMagicTestnet": "3a6f375b"
+}
+
+

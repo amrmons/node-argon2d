@@ -1,0 +1,12 @@
+{
+    "name": "GLT-Lyra2REv3",
+    "symbol": "GLT",
+    "algorithm": "lyra2rev3",
+    "blockHashSHA256": true,
+    "isMultiAlgo", true,
+    "MultiAlgoString": "lyra2rev3",
+    "peerMagic": "c708d32d",
+    "peerMagicTestnet": "3a6f375b"
+}
+
+

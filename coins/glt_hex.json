@@ -1,0 +1,12 @@
+{
+    "name": "GLT-Hex",
+    "symbol": "GLT",
+    "algorithm": "hex",
+    "blockHashSHA256": true,
+    "isMultiAlgo", true,
+    "MultiAlgoString": "hex",
+    "peerMagic": "c708d32d",
+    "peerMagicTestnet": "3a6f375b"
+}
+
+

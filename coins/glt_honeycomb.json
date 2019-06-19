@@ -1,0 +1,12 @@
+{
+    "name": "GLT-Honeycomb",
+    "symbol": "GLT",
+    "algorithm": "honeycomb",
+    "blockHashSHA256": true,
+    "isMultiAlgo", true,
+    "MultiAlgoString": "honeycomb",
+    "peerMagic": "c708d32d",
+    "peerMagicTestnet": "3a6f375b"
+}
+
+

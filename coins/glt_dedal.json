@@ -1,0 +1,12 @@
+{
+    "name": "GLT-Dedal",
+    "symbol": "GLT",
+    "algorithm": "dedal",
+    "blockHashSHA256": true,
+    "isMultiAlgo", true,
+    "MultiAlgoString": "dedal",
+    "peerMagic": "c708d32d",
+    "peerMagicTestnet": "3a6f375b"
+}
+
+

@@ -1,0 +1,12 @@
+{
+    "name": "GLT-YescryptR16v2",
+    "symbol": "GLT",
+    "algorithm": "yescryptr16v2",
+    "blockHashSHA256": true,
+    "isMultiAlgo", true,
+    "MultiAlgoString": "yescryptr16v2",
+    "peerMagic": "c708d32d",
+    "peerMagicTestnet": "3a6f375b"
+}
+
+

@@ -1,0 +1,12 @@
+{
+    "name": "GLT-Rickhash",
+    "symbol": "GLT",
+    "algorithm": "rickhash",
+    "blockHashSHA256": true,
+    "isMultiAlgo", true,
+    "MultiAlgoString": "rickhash",
+    "peerMagic": "c708d32d",
+    "peerMagicTestnet": "3a6f375b"
+}
+
+

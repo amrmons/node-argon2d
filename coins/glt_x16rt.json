@@ -1,0 +1,12 @@
+{
+    "name": "GLT-X16RT",
+    "symbol": "GLT",
+    "algorithm": "x16rt",
+    "blockHashSHA256": true,
+    "isMultiAlgo", true,
+    "MultiAlgoString": "x16rt",
+    "peerMagic": "c708d32d",
+    "peerMagicTestnet": "3a6f375b"
+}
+
+

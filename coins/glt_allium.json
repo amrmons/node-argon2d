@@ -1,0 +1,12 @@
+{
+    "name": "GLT-Allium",
+    "symbol": "GLT",
+    "algorithm": "allium",
+    "blockHashSHA256": true,
+    "isMultiAlgo", true,
+    "MultiAlgoString": "allium",
+    "peerMagic": "c708d32d",
+    "peerMagicTestnet": "3a6f375b"
+}
+
+

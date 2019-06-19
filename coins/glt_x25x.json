@@ -1,0 +1,12 @@
+{
+    "name": "GLT-X25X",
+    "symbol": "GLT",
+    "algorithm": "x25x",
+    "blockHashSHA256": true,
+    "isMultiAlgo", true,
+    "MultiAlgoString": "x25x",
+    "peerMagic": "c708d32d",
+    "peerMagicTestnet": "3a6f375b"
+}
+
+
