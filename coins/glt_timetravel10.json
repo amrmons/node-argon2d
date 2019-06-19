@@ -3,6 +3,8 @@
     "symbol": "GLT",
     "algorithm": "timetravel10",
     "blockHashSHA256": true,
+    "isMultiAlgo", true,
+    "MultiAlgoString": "timetravel10",
     "peerMagic": "c708d32d",
     "peerMagicTestnet": "3a6f375b"
 }

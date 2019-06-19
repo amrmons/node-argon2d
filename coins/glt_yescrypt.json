@@ -3,6 +3,8 @@
     "symbol": "GLT",
     "algorithm": "yescrypt",
     "blockHashSHA256": true,
+    "isMultiAlgo", true,
+    "MultiAlgoString": "yescrypt",
     "peerMagic": "c708d32d",
     "peerMagicTestnet": "3a6f375b"
 }

@@ -3,6 +3,8 @@
     "symbol": "GLT",
     "algorithm": "groestlmyriad",
     "blockHashSHA256": true,
+    "isMultiAlgo", true,
+    "MultiAlgoString": "groestl",
     "peerMagic": "c708d32d",
     "peerMagicTestnet": "3a6f375b"
 }

@@ -1,9 +1,0 @@
-{
-    "name": "GLT-Equihash",
-    "symbol": "GLT",
-    "algorithm": "equihash",
-    "peerMagic": "c708d32d",
-    "peerMagicTestnet": "3a6f375b"
-}
-
-
