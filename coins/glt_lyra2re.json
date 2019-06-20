@@ -4,7 +4,7 @@
     "algorithm": "lyra2re2",
     "blockHashSHA256": true,
     "isMultiAlgo": true,
-    "MultiAlgoString": "lyra2re2",
+    "MultiAlgoString": "lyra2rev2",
     "peerMagic": "c708d32d",
     "peerMagicTestnet": "3a6f375b"
 }
