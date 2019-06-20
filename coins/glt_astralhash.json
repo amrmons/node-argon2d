@@ -3,7 +3,7 @@
     "symbol": "GLT",
     "algorithm": "astralhash",
     "blockHashSHA256": true,
-    "isMultiAlgo", true,
+    "isMultiAlgo": true,
     "MultiAlgoString": "astralhash",
     "peerMagic": "c708d32d",
     "peerMagicTestnet": "3a6f375b"

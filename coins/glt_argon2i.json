@@ -3,7 +3,7 @@
     "symbol": "GLT",
     "algorithm": "argon2i",
     "blockHashSHA256": true,
-    "isMultiAlgo", true,
+    "isMultiAlgo": true,
     "MultiAlgoString": "argon2i",
     "peerMagic": "c708d32d",
     "peerMagicTestnet": "3a6f375b"

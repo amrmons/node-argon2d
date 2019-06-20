@@ -3,7 +3,7 @@
     "symbol": "GLT",
     "algorithm": "yespower",
     "blockHashSHA256": true,
-    "isMultiAlgo", true,
+    "isMultiAlgo": true,
     "MultiAlgoString": "yespower",
     "peerMagic": "c708d32d",
     "peerMagicTestnet": "3a6f375b"

@@ -3,7 +3,7 @@
     "symbol": "GLT",
     "algorithm": "tribus",
     "blockHashSHA256": true,
-    "isMultiAlgo", true,
+    "isMultiAlgo": true,
     "MultiAlgoString": "tribus",
     "peerMagic": "c708d32d",
     "peerMagicTestnet": "3a6f375b"
