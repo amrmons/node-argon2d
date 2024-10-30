@@ -12,9 +12,9 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/globaltoken/node-open-mining-portal",
+    "homepage": "https://github.com/amrmons/node-argon2d",
     "bugs": {
-        "url": "https://github.com/globaltoken/node-open-mining-portal/issues"
+        "url": "https://github.com/amrmons/node-argon2d/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
